@@ -25,6 +25,6 @@ describe('CalculatorService', function () {
             expect(result).toBe(-1);
         });
         $rootScope.$apply();
-    })
+    });
 
 });
